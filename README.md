@@ -4,7 +4,7 @@ I'm Amy, and LLB graduate and MSc Computer Science Conversion student at the Uni
 
 When I'm not coding, I love figure skating, reading, and creative writing! 
 
-I am currently look for a legal tech career upon my graduation this October 2020. If you have a role or project you think would interest me, feel free to reach out to me on amyeileenconroy@gmail.com. 👯😄✨
+I am currently looking for a legal tech role upon my graduation this October. If you have a role or project you think would interest me, feel free to reach out to me on amyeileenconroy@gmail.com. 👯😄✨
 
 <!--
 **amyconroy/amyconroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
