@@ -1,6 +1,6 @@
 ### Heya! 👋
 
-I'm [Amy](www.amyconroy.co.uk), and LLB graduate and MSc Computer Science Conversion student at the University of Bristol. I'm currently working on the automatic summarisation of UKHL legal judgments using supervised machine learning for my MSc thesis. 
+I'm [Amy](https://www.amyconroy.co.uk), and LLB graduate and MSc Computer Science Conversion student at the University of Bristol. I'm currently working on the automatic summarisation of UKHL legal judgments using supervised machine learning for my MSc thesis. 
 
 When I'm not coding, I love figure skating, reading, and creative writing! 
 
