@@ -1,4 +1,4 @@
-<p align="center"><img src="header.png"width=22%>
+<p align="center"><img src="header.png">
 </p>
 ### Heya! 👋
 
