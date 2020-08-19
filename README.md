@@ -1,5 +1,4 @@
-<p align="center"><img src="header.png">
-</p>
+<img src="https://github.com/amyconroy/amyconroy/blob/master/header.png">
 
 ### Heya! 👋
 
