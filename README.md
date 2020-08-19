@@ -1,5 +1,7 @@
 ### Heya! 👋
 
+![header](header.png)
+
 I'm [Amy](https://www.amyconroy.co.uk), an LLB graduate and MSc Computer Science Conversion student at the University of Bristol. I'm currently working on the automatic summarisation of UKHL legal judgments using supervised machine learning for my MSc thesis. I am also the co-founder of [Open Tenancy](https://github.com/open-tenancy), an open source platform to enhance access to justice by providing clear and accessible tenancy advice - coming soon. 
 
 When I'm not coding, I love figure skating, reading, and creative writing! 
