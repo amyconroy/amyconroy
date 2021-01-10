@@ -6,7 +6,7 @@ I'm [Amy](https://www.amyconroy.co.uk), an LLB graduate and MSc Computer Science
 
 When I'm not coding, I love figure skating, reading, and creative writing! 
 
-I am currently looking for a legal tech role upon my graduation this October. If you have a role or project you think would interest me, feel free to reach out to me on amyeileenconroy@gmail.com. 👯😄✨
+I am now working as Legal Engineer at Avvoka during the day, and on openTenancy at night. I love talking about Legal Tech and all things under the sun really, feel free to reach out to me if you'd like to have a virtual coffee at amyeileenconroy@gmail.com. 👯😄✨
 
 <!--
 **amyconroy/amyconroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
