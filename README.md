@@ -1,4 +1,4 @@
-<img src="https://github.com/amyconroy/amyconroy/blob/master/header.png">
+<img src="https://github.com/amyconroy/amyconroy/blob/master/new_header.png">
 
 ### Heya! 👋
 
