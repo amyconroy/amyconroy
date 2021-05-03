@@ -2,11 +2,13 @@
 
 ### Heya! 👋
 
-I'm [Amy](https://www.amyconroy.co.uk), an LLB graduate and MSc Computer Science Conversion student at the University of Bristol. I'm currently working on the automatic summarisation of UKHL legal judgments using supervised machine learning, initially created as part of my MSc thesis however I am now continuing on the research. I am also the co-founder of [Open Tenancy](https://github.com/open-tenancy), an open source platform to enhance access to justice by providing clear and accessible tenancy advice - coming soon. 
+I'm [Amy](https://www.amyconroy.co.uk), an LLB and MSc Computer Science grad from the University of Bristol. I'm a legal engineer and NLP researcher, currently working on the SUMO system. The system automatically summarises UKHL legal judgments using supervised machine learning. Our first paper on this system was published as part of the JURIX 2020 conference proceedings.
+
+I am also the co-founder of [Open Tenancy](https://github.com/open-tenancy), an open source platform to enhance access to justice by providing clear and accessible tenancy advice - coming soon. 
 
 When I'm not coding, I love figure skating, reading, and creative writing! 
 
-I am now working as Legal Engineer at Avvoka during the day, and on openTenancy at night. I love talking about Legal Tech and all things under the sun really, feel free to reach out to me if you'd like to have a virtual coffee at amyeileenconroy@gmail.com. 👯😄✨
+I am now working as Legal Engineer at Avvoka during the day, and on openTenancy and the SUMO system at night. I love talking about Legal Tech and all things under the sun really, feel free to reach out to me if you'd like to have a virtual coffee at amyeileenconroy@gmail.com. 👯😄✨
 
 <!--
 **amyconroy/amyconroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
