@@ -1,24 +1,11 @@
-<img src="2022_header">
+<img src="https://github.com/amyconroy/amyconroy/blob/master/2022_header.png">
 
-<!--
-### Heya! 👋
+👋 Hi, I'm Amy! I'm a Data Scientist and Legal NLP researcher. 
 
-I'm [Amy](https://www.amyconroy.co.uk), an LLB and MSc Computer Science grad from the University of Bristol. I'm a Data Scientist and NLP researcher, currently working on the SUMO system. The system automatically summarises UKHL legal judgments using supervised machine learning. Our first paper on this system was published as part of the JURIX 2020 conference proceedings.
+🎓 I started my path to LegalTech when studying my LLB, before going on to do my MSc in Computer Science at the University of Bristol.
 
-When I'm not coding, I love figure skating, reading, and creative writing! 
+📝 I'm a published Legal NLP researcher, my research focuses on the applicability of traditional NLP methods to legal texts. This includes the creation of a system to automatically summarise UK court judgments, created for my MSc thesis. 
 
-I love talking about Legal Tech and all things under the sun really, feel free to reach out to me if you'd like to have a virtual coffee at amyeileenconroy@gmail.com. 👯😄✨
+💻 I currently work as a Data Scientist for Mishcon de Reya LLP, focusing on the way we can leverage litigation data to improve and provide better insights into the way the firm operates. I also work on external projects leveraging my NLP experience to contribute to the wider research community. 
 
-**amyconroy/amyconroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏫 I am the co-founder of Law School 2.0, a Legal edTech that focuses on improving education for future lawyers around LegalTech and legal innovation with a focus on problem identification, solution creation, and solution adoption. We run various events, including a one week long summer vacation scheme.
